@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "194725952",
+    "firebase_url": "https://knockknock-db0c9-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "knockknock-db0c9",
+    "storage_bucket": "knockknock-db0c9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194725952:android:5f6f5e83158a67e6a5b7a5",
+        "android_client_info": {
+          "package_name": "com.knockknockapp.walkietalkie.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194725952-is5umd0a1b4umhp8je96f822rpgha0vg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.knockknockapp.walkietalkie.android",
+            "certificate_hash": "eef1e2d939677daecd255a4f9c82c3d8d86c3c31"
+          }
+        },
+        {
+          "client_id": "194725952-8rnfnqc83jdn04jt05fkb5uo3mmghbsk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbC30LG298rMOMJjJbNjzpbgQbF4JfCwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194725952-8rnfnqc83jdn04jt05fkb5uo3mmghbsk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
